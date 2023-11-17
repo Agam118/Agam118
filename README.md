@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in **Web Development**
 - 🌱 I’m currently learning **React.js and Node.js**
-- 📫 How to reach me **bajaj.agam.2017305@gmail.com**
+- 📫 Let's connect **bajaj.agam.2017305@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
