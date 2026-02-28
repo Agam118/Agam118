@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agam118&label=Profile%20views&color=0e75b6&style=flat" alt="agam118" /> </p>
 
-- 👀 I’m interested in **Web Development**
-- 🌱 I’m currently learning **React.js and Node.js**
+- 👀 I’m interested in **Site Operations and CLoud**
+- 🌱 I’m currently learning **SRE|Devops Key Industry Practices**
 - 📫 Let's connect **bajaj.agam.2017305@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
